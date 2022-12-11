@@ -17,7 +17,8 @@ I especially like working with React - React-Native!
 
 ### My Skills:
 [![My Skills](https://skillicons.dev/icons?i=c,js,html,css,react,sass,netlify,heroku,mongodb,firebase,express,nodejs,vim,vscode&perline=7)](https://skillicons.dev)  
- <img width="48" height="48" src="https://user-images.githubusercontent.com/61467957/206223134-a01dc6a6-1cbc-44b5-9a03-9cf1b9bbf238.png">&ensp;<img width="48" height="48" src="https://user-images.githubusercontent.com/61467957/206220116-f70d2397-f5ce-4510-ae38-54625407e43f.png">
+ <img width="48" height="48" src="https://user-images.githubusercontent.com/61467957/206223134-a01dc6a6-1cbc-44b5-9a03-9cf1b9bbf238.png">&ensp;<img width="48" height="48" src="https://user-images.githubusercontent.com/61467957/206220116-f70d2397-f5ce-4510-ae38-54625407e43f.png">&ensp;<img width="48" height="48" src="https://railway.app/brand/logo-dark.png">
+
 
 ### Socials
 
@@ -47,7 +48,7 @@ I especially like working with React - React-Native!
 >This is a Fullstack responsive website, using the Marvel API.  
 The technologies employed and learned for the realization of this website are the following:
 >
->[![My Skills](https://skillicons.dev/icons?i=react,css,netlify,mongodb,nodejs,express)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=react,css,netlify,mongodb,nodejs,express)](https://skillicons.dev)&ensp;<img width="48" height="48" src="https://railway.app/brand/logo-dark.png">
 
 - Netlify URL : https://marvel-hk.netlify.app
 - Front-End repository :https://github.com/hkonate/Marvel-frontend
